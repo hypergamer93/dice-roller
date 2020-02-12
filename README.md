@@ -1,2 +1,2 @@
 # dice-roller
-dice roller for any rpg
+This is a dice roller that I have created because who ever has enough dice for that they want to do?
